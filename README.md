@@ -1,3 +1,4 @@
+<img width="1280" height="720" alt="WhatsApp Image 2026-05-24 at 11 15 45 AM" src="https://github.com/user-attachments/assets/d41aaff8-5d12-4438-a970-2d274ca8532c" />
 # Robosoccer-bot
 
 # 🤖 2-Wheel RoboSoccer Bot (Arduino + FlySky)
