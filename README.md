@@ -75,7 +75,7 @@ This project solves that by reading both channels simultaneously using edge dete
 2. Power system properly
 3. Bind FlySky transmitter
 4. Calibrate endpoints if needed
-
+5. Use this link to find the circuit connection https://app.cirkitdesigner.com/project/dc01cad4-192e-454c-93aa-3d81562c3470
 ## 📷 Diagrams
 
 See `/docs/` for wiring and block diagrams.
